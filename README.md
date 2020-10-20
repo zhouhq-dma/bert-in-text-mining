@@ -26,3 +26,6 @@ python run_sequence_labeling_and_text_classification_probability.py
 --init_checkpoint=D:/MachineLearningProjects/pythonProject/Demo/NLP/JointBert/Demo-new/train/model.ckpt-4088 
 --max_seq_length=32 
 --output_dir=D:/MachineLearningProjects/pythonProject/Demo/NLP/JointBert/Demo-new/predict/
+
+## related links
+[TF.Metrics](https://github.com/guillaumegenthial/tf_metrics/blob/master/tf_metrics/__init__.py "TF.metrics by Guillaume Genthial")
