@@ -1,0 +1,11 @@
+eval_intent_accuracy = 0.9885714
+eval_intent_loss = 0.056351453
+eval_slot_f(macro) = 0.875512
+eval_slot_f(micro) = 0.9756403
+eval_slot_loss = 0.038030274
+eval_slot_precision(macro) = 0.8751025
+eval_slot_precision(micro) = 0.97571677
+eval_slot_recall(macro) = 0.892143
+eval_slot_recall(micro) = 0.9755639
+global_step = 4088
+loss = 9.736469
